@@ -5,15 +5,6 @@
   
 "mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
-    
-	/**
-     * mode pengaturan iklan
-     * Mode 1     Admob backup Startapp
-     * Mode 2     FAN backup Startapp
-     * Mode 3     Appodeal backup Startapp
-     * Mode 4     Unity backup Startapp
-     * Mode 5     Applovin backup Startapp
-     */
 	 
 "pengaturan_iklan_banner" : "1",
 "pengaturan_iklan_inter" : "2",
