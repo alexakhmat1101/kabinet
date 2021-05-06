@@ -49,7 +49,7 @@
 	
 	{
       "name_mp3": "Beauty Floet",
-      "link_mp3": "Beauty_Floet.mp3"
+      "link_mp3": "file:///android_asset/Beauty_Floet.mp3"
     },
 	
 	{
@@ -73,20 +73,20 @@
     }
 
   ],"Wallpaper": [
-    {
-      "image": "https://aliendro.id/projek/demo/nature1.jpg"
-    },{
-      "image": "https://aliendro.id/projek/demo/nature2.jpg"
-    },{
-      "image": "https://aliendro.id/projek/demo/nature3.jpg"
-    },{
-      "image": "https://aliendro.id/projek/demo/nature4.jpg"
-    },{
-      "image": "https://aliendro.id/projek/demo/nature5.jpg"
-    },{
-      "image": "https://aliendro.id/projek/demo/nature6.jpg"
-    },{
-      "image": "https://aliendro.id/projek/demo/nature7.jpg"
+   {
+    "https://wallpaperaccess.com/full/170712.jpg"
+  },{
+    "image": "file:///android_asset/nature2.jpg"
+  },{
+    "image": "file:///android_asset/nature3.jpg"
+  },{
+    "image": "file:///android_asset/nature4.jpg"
+  },{
+    "image": "file:///android_asset/nature5.jpg"
+  },{
+    "image": "file:///android_asset/nature6.jpg"
+  },{
+    "image": "file:///android_asset/nature7.jpg"
     }
   ]
 }
