@@ -42,6 +42,18 @@
     
     }
   ],"Mp3": [
+	  
+	{
+    "name_mp3": "Beauty Floet",
+    "link_mp3": "Beauty_Floet.mp3"
+  },{
+    "name_mp3": "Nature Piano",
+    "link_mp3": "Nature_Piano.mp3"
+  },{
+    "name_mp3": "Water Sound",
+    "link_mp3": "Water_Sound.mp3"
+  },
+	  
     {
       "name_mp3": "DJ ARCHIVE",
       "link_mp3": "https://ia802905.us.archive.org/34/items/file-119081-15811824903061-9/file_119081_15811824903061%20%281%29.mp3"
