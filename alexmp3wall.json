@@ -26,6 +26,8 @@
 "Json_popup_Wait": "data ready",
 "Mode_No_Ads_true": "ProVersion Activated",
 
+"ON_OFF_DATA":"1",
+
 "MODE_NO_ADS": true,
 "ADS_on_START": true,
 "ads_on_exit_dialog": true,
