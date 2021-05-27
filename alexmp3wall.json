@@ -1,104 +1,103 @@
 {
-  "Ads": [
-    {
-      "select_ads": "UNITY",
-      
-	  "status_app": "0",
-      "link_redirect": "https://",
-      
-	  "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
-      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-      
-	  "startappid": "201669628",
-      
-	  "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
-      
-	  "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-      
-	  "unityID":"4114625",
-      "unity_inter":"inter",
-      "unity_banner":"banner",
-      "interval": 3,
-	  
-      "Json_popup_Wait": "data ready",
-      "Mode_No_Ads_true": "ProVersion Activated",
-	  
-	  
-      "MODE_NO_ADS": true,
-      "ADS_on_START": true,
-      "ads_on_exit_dialog": true,
-	  
-      "exit_popup_dialog": "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya ",
-      "Rate_Button": "Rate 5 Stars",
-      "Later_Button": "Rate Later",
-      "enable_Share_button": true,
-      "Share_TXT": "Supperr APPS Download Now",
-      "More_Button": "Share Via WhatsApp",
-      "Url_More_Apps": "https:// jika share button TRUE maka tombol MORE berubah SHARE"
- 
-    
-    }
-  ],"Mp3": [
-	  
-	{
-    "name_mp3": "Beauty Floet",
-    "link_mp3": "Beauty_Floet.mp3"
-  },{
-    "name_mp3": "Nature Piano",
-    "link_mp3": "Nature_Piano.mp3"
-  },{
-    "name_mp3": "Water Sound",
-    "link_mp3": "Water_Sound.mp3"
-  },
-	  
-    {
-      "name_mp3": "DJ ARCHIVE",
-      "link_mp3": "https://ia802905.us.archive.org/34/items/file-119081-15811824903061-9/file_119081_15811824903061%20%281%29.mp3"
-    },
-	
-	{
-      "name_mp3": "Beauty Floet",
-      "link_mp3": "file:///android_asset/Beauty_Floet.mp3"
-    },
-	
-	{
-      "name_mp3": "Beauty Floet",
-      "link_mp3": "Beauty_Floet.mp3"
-    },
-	
-	{
-      "name_mp3": "Beauty Floet",
-      "link_mp3": "Beauty_Floet.mp3"
-    },
-	
-	{
-      "name_mp3": "Beauty Floet",
-      "link_mp3": "Beauty_Floet.mp3"
-    },
-	
-	{
-      "name_mp3": "Water Sound",
-      "link_mp3": "https://aliendro.id/projek/demo/Water_Sound.mp3"
-    }
+"Ads": [
+{
+"select_ads": "UNITY",
 
-  ],"Wallpaper": [
-   {
-    "image": "https://wallpaperaccess.com/full/170712.jpg"
-  },{
-    "image": "file:///android_asset/nature2.jpg"
-  },{
-    "image": "file:///android_asset/nature3.jpg"
-  },{
-    "image": "file:///android_asset/nature4.jpg"
-  },{
-    "image": "file:///android_asset/nature5.jpg"
-  },{
-    "image": "file:///android_asset/nature6.jpg"
-  },{
-    "image": "file:///android_asset/nature7.jpg"
-    }
-  ]
+"status_app": "0",
+"link_redirect": "https://",
+
+"admob_interid": "ca-app-pub-3940256099942544/1033173712",
+"admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+"admob_openid": "ca-app-pub-3940256099942544/1033173712",
+
+"startappid": "201669628",
+
+"fan_inter": "YOUR_PLACEMENT_ID",
+"fan_banner": "YOUR_PLACEMENT_ID",
+
+"mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+"mopub_inter": "24534e1901884e398f1253216226017e",
+
+"unityID":"4114625",
+"unity_inter":"inter",
+"unity_banner":"banner",
+"interval": 3,
+
+"Json_popup_Wait": "data ready",
+"Mode_No_Ads_true": "ProVersion Activated",
+
+"MODE_NO_ADS": true,
+"ADS_on_START": true,
+"ads_on_exit_dialog": true,
+
+"exit_popup_dialog": "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya ",
+"Rate_Button": "Rate 5 Stars",
+"Later_Button": "Rate Later",
+"enable_Share_button": true,
+"Share_TXT": "Supperr APPS Download Now",
+"More_Button": "Share Via WhatsApp",
+"Url_More_Apps": "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
 }
+]
+,"Mp3": [
+
+{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},{
+"name_mp3": "Nature Piano",
+"link_mp3": "Nature_Piano.mp3"
+},{
+"name_mp3": "Water Sound",
+"link_mp3": "Water_Sound.mp3"
+},
+
+{
+"name_mp3": "DJ ARCHIVE",
+"link_mp3": "https://ia802905.us.archive.org/34/items/file-119081-15811824903061-9/file_119081_15811824903061%20%281%29.mp3"
+},
+
+{
+"name_mp3": "Beauty Floet",
+"link_mp3": "file:///android_asset/Beauty_Floet.mp3"
+},
+
+{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},
+
+{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},
+
+{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},
+
+{
+"name_mp3": "Water Sound",
+"link_mp3": "https://aliendro.id/projek/demo/Water_Sound.mp3"
+}
+
+],"Wallpaper": [
+{
+"image": "https://wallpaperaccess.com/full/170712.jpg"
+},{
+"image": "file:///android_asset/nature2.jpg"
+},{
+"image": "file:///android_asset/nature3.jpg"
+},{
+"image": "file:///android_asset/nature4.jpg"
+},{
+"image": "file:///android_asset/nature5.jpg"
+},{
+"image": "file:///android_asset/nature6.jpg"
+},{
+"image": "file:///android_asset/nature7.jpg"
+}
+
+]}
