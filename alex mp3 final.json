@@ -52,7 +52,7 @@
 
 // Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 // help give us a 5 star rating, so we keep the spirit of providing the latest updates
-// jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
 "Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru",
 "Rate_Button" : "Rating Sekarang",
 "Later_Button" : "nanti",
