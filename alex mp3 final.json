@@ -1,0 +1,114 @@
+{
+"Ads": [
+{
+
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : true,
+"ADS_on_START" : true,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+// mopub = backup unity backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"PENGATURAN_IKLAN_banner" : "admob1",
+"PENGATURAN_IKLAN_inter" : "admob1",
+"INTER_COUNT" : 4,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"MOPUB_BANNER" : "b195f8dd8ded45fe847ad89ed1d016da",
+"MOPUB_INTERSTITIAL" : "24534e1901884e398f1253216226017e",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "isi",
+
+"STARAPPID" : "12345",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru",
+"Rate_Button" : "Rating Sekarang",
+"Later_Button" : "nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Aplikasi yang aku udah download ini berfaedah banget, cobain download juga.. klik link aja ya",
+"More_Button" : "Bagikan Aplikasi ini",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},{
+"name_mp3": "Nature Piano",
+"link_mp3": "Nature_Piano.mp3"
+},{
+"name_mp3": "Water Sound",
+"link_mp3": "Water_Sound.mp3"
+},{
+"name_mp3": "DJ ARCHIVE",
+"link_mp3": "https://ia802905.us.archive.org/34/items/file-119081-15811824903061-9/file_119081_15811824903061%20%281%29.mp3"
+},{
+"name_mp3": "Beauty Floet",
+"link_mp3": "file:///android_asset/Beauty_Floet.mp3"
+},{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},{
+"name_mp3": "Beauty Floet",
+"link_mp3": "Beauty_Floet.mp3"
+},{
+"name_mp3": "Water Sound",
+"link_mp3": "https://aliendro.id/projek/demo/Water_Sound.mp3"
+}
+
+],"Wallpaper": [
+{
+"image": "https://wallpaperaccess.com/full/170712.jpg"
+},{
+"image": "file:///android_asset/nature2.jpg"
+},{
+"image": "file:///android_asset/nature3.jpg"
+},{
+"image": "file:///android_asset/nature4.jpg"
+},{
+"image": "file:///android_asset/nature5.jpg"
+},{
+"image": "file:///android_asset/nature6.jpg"
+},{
+"image": "file:///android_asset/nature7.jpg"
+}
+
+]}
