@@ -8,7 +8,7 @@
 "HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server Ready . . . v21j15",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -60,8 +60,8 @@
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
 "UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
 
 "APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
